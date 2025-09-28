@@ -1,0 +1,5 @@
+beautifulsoup4>=4.9.0
+requests>=2.25.0
+urllib3>=1.26.0
+weasyprint>=54.0          # Requires system libraries (difficult on Windows)
+pdfkit>=1.0.0             # Requires wkhtmltopdf installation
